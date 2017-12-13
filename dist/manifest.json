@@ -1,0 +1,14 @@
+{
+  "react.js": "/react-boilerplate/dist/react.dll.js",
+  "vendor.js": "/react-boilerplate/dist/vendor.dll.js",
+  "common.css": "/react-boilerplate/dist/common.css",
+  "common.js": "/react-boilerplate/dist/common.js",
+  "icons.css": "/react-boilerplate/dist/icons.css",
+  "icons.eot": "/react-boilerplate/dist/font/icons.eot",
+  "icons.svg": "/react-boilerplate/dist/font/icons.svg",
+  "icons.ttf": "/react-boilerplate/dist/font/icons.ttf",
+  "icons.woff": "/react-boilerplate/dist/font/icons.woff",
+  "icons.woff2": "/react-boilerplate/dist/font/icons.woff2",
+  "main.css": "/react-boilerplate/dist/main.css",
+  "main.js": "/react-boilerplate/dist/main.js"
+}

@@ -1,0 +1,18 @@
+CACHE MANIFEST
+#ver:12/13/2017, 10:59:14 PM
+#plugin:4.8.4
+
+CACHE:
+/react-boilerplate/dist/main.js
+/react-boilerplate/dist/main.css
+/react-boilerplate/dist/common.js
+/react-boilerplate/dist/common.css
+/react-boilerplate/
+/react-boilerplate/dist/vendor.dll.js
+/react-boilerplate/dist/react.dll.js
+
+NETWORK:
+*
+
+FALLBACK:
+/ /
